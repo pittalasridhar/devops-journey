@@ -1,0 +1,3 @@
+Git is a version control system.
+Git branches support parallel development.
+Git is important in DevOps CI/CD pipelines.
